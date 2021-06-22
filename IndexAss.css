@@ -1,0 +1,19 @@
+/* .thought{
+    border-bottom: solid 30px #aaa;
+} */
+li{
+    display: inline;
+    margin: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#nav-ul{
+  list-style: none;
+}
+nav{
+  border: 10px;
+  float: right;
+}
+section{
+  border: ;
+}
